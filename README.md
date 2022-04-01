@@ -12,4 +12,4 @@ Website Structure:
 - Contact: a section full of contact information, be it email, telephone number or socia media links, it can be found there. 
 - Pages showing more information about each of the projects, in detail.
 ## Preview on a wide screen:
-![Arquitect Page Prew](https://cdn.discordapp.com/attachments/953366989634699314/959538771647397908/ArquitectWeb.png)
+![Arquitect Page Prew](https://cdn.discordapp.com/attachments/953366989634699314/959539709011460116/ArquitectWeb.png)
