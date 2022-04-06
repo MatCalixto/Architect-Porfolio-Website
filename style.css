@@ -28,7 +28,7 @@
 .logo {max-height: 3em;image-rendering:pixelated;
 }
 .logoTitle {display: flex; flex-direction: column; gap: 0em;}
-.arquitect {font-size: 2em; font-weight: 200;}
+.architect {font-size: 2em; font-weight: 200;}
 .name {font-size: 0.85em; font-weight: 100;}
 
 /* Menu */
